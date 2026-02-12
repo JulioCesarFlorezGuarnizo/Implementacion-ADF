@@ -438,16 +438,3 @@ Este proyecto puede utilizarse para:
 - Simulación computacional de modelos formales.
 - Base para proyectos más avanzados en compiladores o teoría de la computación.
 
----
-
-## 23. Licencia
-
-Proyecto académico con fines educativos.
-
----
-
-## 24. Autor
-
-Proyecto desarrollado como implementación práctica de Autómatas Finitos Deterministas en el contexto de Ciencia de la Computación.
-
----
